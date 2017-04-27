@@ -23,5 +23,9 @@
       "38": "assets/icon38.png"
     }
   },
+  "permissions": [
+    "declarativeWebRequest",
+    "<all_urls>"
+  ],
   "manifest_version": 2
 }
