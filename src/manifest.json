@@ -1,7 +1,7 @@
 {
   "name": "Origin Trials",
   "description": "Show an icon in the address bar when it detects an Origin Trials token.",
-  "version": "0.1",
+  "version": "0.2",
   "icons": {
     "128": "assets/icon128.png"
   },
